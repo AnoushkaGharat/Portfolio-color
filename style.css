@@ -1,0 +1,23 @@
+* {
+    border: solid
+}
+
+.header{
+ background-color: #dfc2f7;
+ display:flex;
+ justify-content: space-between;
+}
+.games{
+    background-color: #cea8fd;
+    display:flex;
+    justify-content: space-evenly;
+
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #ebdbff;
+}
